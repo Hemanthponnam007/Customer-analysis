@@ -55,6 +55,6 @@ Contributions are welcome! If you'd like to improve this project, follow these s
 ## 👨‍💻 Author
 **Ponnam hemanth**  
 - GitHub: [@Hemanthponnam007](https://github.com/Hemanthponnam007)  
-- LinkedIn: [Hemanth ponnam](https://linkedin.com/in/hemanthponnam)  
+- LinkedIn: [Hemanth ponnam](https://www.linkedin.com/in/hemanth-ponnam-6b172a397?)  
 
 
