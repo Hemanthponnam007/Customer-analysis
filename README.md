@@ -53,8 +53,8 @@ Contributions are welcome! If you'd like to improve this project, follow these s
 4. **Submit a pull request**.
 
 ## 👨‍💻 Author
-**Ashwin Sharma**  
-- GitHub: [@AshwinSharma-git](https://github.com/AshwinSharma-git)  
-- LinkedIn: [Ashwin Sharma](https://linkedin.com/in/ashwinsharma2)  
+**Ponnam hemanth**  
+- GitHub: [@Hemanthponnam007](https://github.com/Hemanthponnam007)  
+- LinkedIn: [Hemanth ponnam](https://linkedin.com/in/hemanthponnam)  
 
 
